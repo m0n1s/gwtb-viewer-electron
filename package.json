@@ -1,0 +1,19 @@
+{
+  "name": "gwtb-viewer-electron",
+  "version": "0.0.1",
+  "description": "Gone With The Blastwave App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/m0n1s/gwtb-viewer-electron.git",
+  "keywords": [
+    "Electron",
+    "gwtb"
+  ],
+  "author": "m0n1s",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
